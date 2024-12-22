@@ -1,0 +1,29 @@
+/* Add your CSS styles here */
+body {
+    font-family: Arial, sans-serif;    
+    background-size: cover;
+    text-align: center;
+}
+
+h1 {
+    color: #333;
+}
+
+p a {
+    background-color: #007BFF;
+    color: #fff;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+    display: inline-block;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+html, body {
+    height: 100%;
+}
